@@ -1,4 +1,4 @@
-package com.ui.basepage;
+package com.ui.base;
 
 public class BaseClass {
 
